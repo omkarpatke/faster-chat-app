@@ -1,0 +1,16 @@
+
+.noti-icon{
+ position: relative;
+}
+
+.noti-badge{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    background-color: red;
+    height: 1.3rem;
+    width: 1.3rem;
+    left: 1.6rem;
+    border-radius: 50%;
+ }
